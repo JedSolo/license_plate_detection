@@ -13,6 +13,24 @@ Detecting license plate using yolov5 model
 ![App Screenshot](https://github.com/JedSolo/license_plate_detection/blob/main/results/img1.PNG)
 ![App Screenshot](https://github.com/JedSolo/license_plate_detection/blob/main/results/img2.PNG)
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/JedSolo/license_plate_detection.git
+```
+
+Check the inference.ipynb
+
+Install dependencies
+
+```terminal
+  pip install torch
+
+```
+
+
 ## 🚀 About Me
 I'm a Data Scientist and ML Engineer....
 
